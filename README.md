@@ -6,6 +6,8 @@ This is again changed bit more.
 
 ## Introduction
 
+And more example text added.
+
 ## Purpose
 
 Sample website with plenty of files for demos
