@@ -12,6 +12,10 @@ And more example text added.
 
 Sample website with plenty of files for demos
 
+Adding purpose text at this time. This change only added, not directly committed.
+
 ## Deployment
+
+Now text more to deployment section.
 
 ## How to contribute
