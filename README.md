@@ -20,5 +20,7 @@ Now text more to deployment section.
 
 ## How to contribute
 
+Please fork this repository and the issue a pull request for review.
+
 ### Copyright
 Git copyright yeah! trainings..
