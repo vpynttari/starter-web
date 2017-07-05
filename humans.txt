@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Pekka ja pätkä on tiimi nyt. pekka@pätkä.com
 
 # THANKS
 
