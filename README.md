@@ -19,3 +19,6 @@ Adding purpose text at this time. This change only added, not directly committed
 Now text more to deployment section.
 
 ## How to contribute
+
+### Copyright
+Git copyright yeah! trainings..
